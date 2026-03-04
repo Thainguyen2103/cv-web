@@ -1,0 +1,14 @@
+{
+  "name": "cv-showcase",
+  "version": "1.0.0",
+  "description": "Beautiful CV Showcase Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "pdf-parse": "^2.4.5"
+  }
+}
